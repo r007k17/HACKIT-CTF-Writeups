@@ -1,1 +1,1 @@
-javascript:kindSuperHero("0qsxb6hfoze")
+alert("0qsxb6hfoze")
